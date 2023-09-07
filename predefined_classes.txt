@@ -1,0 +1,18 @@
+book
+bottle
+bowl
+cup
+plate
+flashlight
+medicine bottle
+pill box
+plate
+sponge
+toothbrush
+toothpaste
+towel
+tray
+person
+reading glasses
+banana
+shoes
